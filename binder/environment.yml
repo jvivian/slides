@@ -1,0 +1,16 @@
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - bokeh
+  - scipy
+  - seaborn
+  - ipython
+  - rise
+  - pip:
+    - jupyter-contrib-nbextensions
+    - palettable
+
