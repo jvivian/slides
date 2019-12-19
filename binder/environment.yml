@@ -10,6 +10,7 @@ dependencies:
   - seaborn
   - ipython
   - rise
+  - pip
   - pip:
     - jupyter-contrib-nbextensions
     - palettable
